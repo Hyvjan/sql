@@ -1,0 +1,1 @@
+Creating stuff for going through sql basics 
